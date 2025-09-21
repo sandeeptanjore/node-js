@@ -3,6 +3,7 @@
 
 # Node.js dependencies
 node_modules/
+games/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
