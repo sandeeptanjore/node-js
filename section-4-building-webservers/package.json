@@ -1,0 +1,16 @@
+{
+  "name": "section-4-building-webservers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "start": "node --watch 02-http-custom-server/index.js",
+   "challenge": "node --watch 02-http-custom-server-challenge/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^24.5.2"
+  }
+}
