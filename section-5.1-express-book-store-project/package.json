@@ -1,0 +1,16 @@
+{
+  "name": "section-5.1-express-book-store-project",
+  "version": "1.0.0",
+  "description": "This section is to create and work on book store project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "author": "sandeep tanjore",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.0",
+    "express": "^5.1.0"
+  }
+}
