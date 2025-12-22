@@ -1,0 +1,16 @@
+{
+  "name": "section-6-middlewares-modularization",
+  "version": "1.0.0",
+  "description": "Continuing to work on book store project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "author": "sandeep tanjore",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.4",
+    "express": "^5.1.0"
+  }
+}
