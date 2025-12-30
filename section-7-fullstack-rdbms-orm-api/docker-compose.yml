@@ -1,0 +1,10 @@
+# docker-compose.yml
+services:
+  postgres:
+    image: postgres:18.1
+    ports:
+      - "5433:5432"  # Changed from 5432:5432 to 5433:5432
+    environment:
+      POSTGRES_DB: mydb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
